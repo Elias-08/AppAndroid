@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AppAndroid"
+             x:Class="AppAndroid.MainPage">
+
+    <StackLayout>
+        <Button Text="Cambiar Color"
+                Clicked="OnClick" />
+
+        <Button Text="Cambiar de pagina"
+                Clicked="OnClicked" />
+
+        <Button Text="Que Hora es?"
+                Clicked="Hora" />
+
+        <!-- Place new controls here -->
+        <Label Text="Este Texto cambia de color porque yo lo programe &#128581;!"
+               x:Name= "lblPrincipal"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Label  x:Name= "lblSencundario"
+           VerticalOptions="CenterAndExpand" />
+
+    </StackLayout>
+
+</ContentPage>

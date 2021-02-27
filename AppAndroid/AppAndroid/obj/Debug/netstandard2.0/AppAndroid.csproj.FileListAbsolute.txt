@@ -1,0 +1,13 @@
+C:\Users\Elias\source\repos\AppAndroid\AppAndroid\AppAndroid\bin\Debug\netstandard2.0\AppAndroid.deps.json
+C:\Users\Elias\source\repos\AppAndroid\AppAndroid\AppAndroid\bin\Debug\netstandard2.0\AppAndroid.dll
+C:\Users\Elias\source\repos\AppAndroid\AppAndroid\AppAndroid\bin\Debug\netstandard2.0\AppAndroid.pdb
+C:\Users\Elias\source\repos\AppAndroid\AppAndroid\AppAndroid\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Elias\source\repos\AppAndroid\AppAndroid\AppAndroid\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Elias\source\repos\AppAndroid\AppAndroid\AppAndroid\obj\Debug\netstandard2.0\AppAndroid.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\AppAndroid\AppAndroid\AppAndroid\obj\Debug\netstandard2.0\AppAndroid.AssemblyInfoInputs.cache
+C:\Users\Elias\source\repos\AppAndroid\AppAndroid\AppAndroid\obj\Debug\netstandard2.0\AppAndroid.AssemblyInfo.cs
+C:\Users\Elias\source\repos\AppAndroid\AppAndroid\AppAndroid\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Elias\source\repos\AppAndroid\AppAndroid\AppAndroid\obj\Debug\netstandard2.0\AppAndroid.dll
+C:\Users\Elias\source\repos\AppAndroid\AppAndroid\AppAndroid\obj\Debug\netstandard2.0\AppAndroid.pdb
+C:\Users\Elias\source\repos\AppAndroid\AppAndroid\AppAndroid\obj\Debug\netstandard2.0\AppAndroid.csprojAssemblyReference.cache
+C:\Users\Elias\source\repos\AppAndroid\AppAndroid\AppAndroid\obj\Debug\netstandard2.0\Page1.xaml.g.cs
