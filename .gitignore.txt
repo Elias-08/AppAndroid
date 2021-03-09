@@ -1,0 +1,195 @@
+# # Ignore los archivos temporales de Visual Studio, genere resultados y
+# # archivos generados por complementos populares de Visual Studio.
+
+# Visual Studio (> = 2015) archivos locales de máquina específicos del proyecto
+.vs /
+
+# Archivos específicos del usuario
+* .suo
+* .usuario
+* .sln.docstates
+* .userprefs
+
+# ignore los archivos Xamarin.Android Resource.Designer.cs
+** / * .Droid / ** / [ Rr ] esource. [ Dd ] esigner.cs
+** / * .Android / ** / [ Rr ] esource. [ Dd ] esigner.cs
+** / Android / ** / [ Rr ] esource. [ Dd ] esigner.cs
+** / Droid / ** / [ Rr ] esource. [ Dd ] esigner.cs
+
+# Componentes de Xamarin
+Componentes /
+
+# Generar resultados
+[ Dd ] ebug /
+[ Dd ] ebugPublic /
+[ Rr ] elease /
+x64 /
+construir /
+bld /
+[ Bb ] en /
+[ Oo ] bj /
+
+# Resultados de la prueba MSTest
+[ Tt ] est [ Rr ] resultado * /
+[ Bb ] uild [ Ll ] og. *
+
+# NUNIDAD
+* .VisualState.xml
+TestResult.xml
+
+# Generar resultados de un proyecto ATL
+[ Dd ] ebugPS /
+[ Rr ] eleasePS /
+dlldata.c
+
+* _i.c
+* _p.c
+* _i.h
+* .leche
+* .meta
+* .obj
+* .pch
+* .pdb
+* .pgc
+* .pgd
+* .rsp
+* .sbr
+* .tlb
+* .tli
+* .tlh
+* .tmp
+* .tmp_proj
+* .log
+* .vspscc
+* .vssscc
+.builds
+* .pidb
+* .svclog
+* .scc
+
+# Archivos de prueba de Jutzpah
+_Chutzpah *
+
+# Archivos de caché de Visual C ++
+ipch /
+* .aps
+* .ncb
+* .opensdf
+* .sdf
+* .cachefile
+
+# Analizador de Visual Studio
+* .psess
+* .vsp
+* .vspx
+
+# Espacio de trabajo local de TFS 2012
+$ tf /
+
+# Kit de herramientas de automatización de orientación
+* .gpState
+
+# ReSharper es un complemento de codificación .NET
+_ReSharper * /
+* . [ Rr ] e [ Ss ] harper
+* .DotSettings.user
+
+# JustCode es un complemento de codificación .NET
+.JustCode
+
+# TeamCity es un complemento de compilación
+_TeamCity *
+
+# DotCover es una herramienta de cobertura de código
+* .dotCover
+
+# NCrunch
+* .ncrunch *
+_NCrunch_ *
+. * crujido * .local.xml
+
+# MightyMoose
+* .mm. *
+AutoTest.Net /
+
+# Banco de trabajo web (sass)
+.sass-cache /
+
+# Carpeta de salida Installshield
+[ Ee ] xpress /
+
+# DocProject es un complemento generador de documentación
+DocProject / buildhelp /
+DocProject / Help / * .HxT
+DocProject / Ayuda / * .HxC
+DocProject / Help / * .hhc
+DocProject / Ayuda / * .hhk
+DocProject / Ayuda / * .hhp
+DocProject / Ayuda / Html2
+DocProject / Ayuda / html
+
+# Directorio de clic único
+publicar /
+
+# Publicar salida web
+* . [ Pp ] ublish.xml
+* .azurePubxml
+
+# Directorio de paquetes NuGet
+paquetes /
+* .nuget.targets
+* .lock.json
+* .nuget.props
+
+# # TODO: Si la herramienta que usa requiere repositories.config, descomente la siguiente línea
+# ! packages / repositories.config
+
+# Habilite la carpeta "build /" en la carpeta NuGet Packages ya que los paquetes NuGet la usan para objetivos de MSBuild
+# Esta línea debe estar después de ignorar la carpeta de compilación (y la carpeta de paquetes si la línea anterior no ha sido comentada)
+! paquetes / build /
+
+# Salida de la compilación de Windows Azure
+csx /
+* .build.csdef
+
+# Directorio del paquete de la aplicación de la Tienda Windows
+Paquetes de aplicaciones /
+
+# Otros
+sql /
+* .Caché
+ClientBin /
+[ Ss ] tyle [ Cc ] op. *
+~ $ *
+* ~
+* .dbmdl
+* .dbproj.schemaview
+* .pfx
+* .publishsettings
+módulos_nodo /
+.DS_Store
+* .bak
+
+# Proyectos RIA / Silverlight
+Código_generado /
+
+# Copia de seguridad e informe de archivos desde la conversión de un archivo de proyecto antiguo a uno más nuevo.
+# Versión de Visual Studio. Los archivos de respaldo no son necesarios, porque tenemos git ;-)
+_UpgradeReport_Files /
+Copia de seguridad * /
+UpgradeLog * .XML
+UpgradeLog * .htm
+
+# Archivos de SQL Server
+* .mdf
+* .ldf
+
+# Proyectos de Business Intelligence
+* .rdl.data
+* .bim.layout
+* .bim_ * .settings
+
+# Microsoft Fakes
+Asambleas falsas /
+
+.vscode / settings.json
