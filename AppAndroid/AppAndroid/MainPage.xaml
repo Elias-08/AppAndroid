@@ -21,6 +21,12 @@
            VerticalOptions="CenterAndExpand" />
 
         <Label  x:Name= "lblSencundario"
+              HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+
+        <Label Text="{x:Static local:TextoNuevo.Message}"
+           HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
 
     </StackLayout>
